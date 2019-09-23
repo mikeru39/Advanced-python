@@ -1,0 +1,10 @@
+2019-09-23 23:10:23,561 - INFO - Server started with localhost:8000
+2019-09-23 23:10:29,169 - INFO - Client 127.0.0.1:52083 was connected
+2019-09-23 23:10:39,256 - DEBUG - Request: {"action": "echo", "data": "hi", "time": 1569273029.163503}
+2019-09-23 23:14:46,294 - INFO - Server started with localhost:8000
+2019-09-23 23:14:58,935 - INFO - Client 127.0.0.1:52157 was connected
+2019-09-23 23:15:05,304 - ERROR - Action with name ad not found
+2019-09-23 23:49:11,491 - INFO - Server started with localhost:8000
+2019-09-23 23:49:16,441 - INFO - Client 127.0.0.1:52592 was connected
+2019-09-23 23:50:03,247 - DEBUG - request: {'action': 'echo', 'data': 'adaw', 'time': 1569275356.435963} - response: {'action': 'echo', 'time': 1569275351.483689, 'code': 200, 'data': 'adaw'}
+2019-09-23 23:50:03,247 - DEBUG - Request: {"action": "echo", "data": "adaw", "time": 1569275356.435963}
